@@ -1,0 +1,3 @@
+Hello world!
+Very excited to learn every bit I need to become a full-stack developer;
+Ontop of Sysadministration and system securties!
